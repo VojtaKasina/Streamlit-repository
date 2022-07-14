@@ -10,4 +10,4 @@ if page == 'Test':
     st.write('Toto je moje prvni aplikace, kterou delam.')
 
 if page == 'Thompson':
-    st.write('Thompson sampling')
+    st.write('Thompson sampling.')
